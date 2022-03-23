@@ -25,7 +25,7 @@ That was easy!
 ## Step 2: Configure GitHub
 Next you will need to configure the library with your credentials so GitHub knows who is making the requests.
 
-To get credentials — if you don’t already have them — go to your GitHub For Developers and create a new project.
+To get credentials — if you don’t already have them — go to your GitHub For Developers settings and create a new OAuth Apps.
 
 ## Step 3: Get the GitHub Login URL
 Why do we need this?… Well, in order for us to sign someone in to GitHub, we need to send them to the GitHub login page. From here, they will sign in to their account and then they will be redirect to our app with their sign in details.
